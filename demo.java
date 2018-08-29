@@ -1,6 +1,9 @@
 void WITHDRAW()
 {
   .....
+void DEPOSITE()
+{
+   ....
 }
 void getData()
 {
