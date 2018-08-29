@@ -1,4 +1,12 @@
-vooid SUB()
+void DIV()
+{
+  C=A/B
+}
+void MUL()
+{
+  C=A*B
+}
+void SUB()
 {
   C=A-B
 }
