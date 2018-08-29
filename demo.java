@@ -1,3 +1,11 @@
+void getData()
+{
+   .....
+}
+void putData()
+{
+   .....
+}
 class Demo
 {
   p.s.void main(..)
