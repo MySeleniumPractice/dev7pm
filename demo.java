@@ -1,3 +1,12 @@
+void SathyaTech()
+{
+  devops
+  puppet
+  chef
+  Ansible
+  Docker
+    .....
+}
 void WITHDRAW()
 {
   .....
