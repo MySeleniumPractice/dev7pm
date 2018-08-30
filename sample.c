@@ -1,3 +1,7 @@
+void PUPPET()
+{
+   .....
+}
 void DIV()
 {
   C=A/B
